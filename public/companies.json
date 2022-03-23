@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "id": 1, "name": "Sii", "workers": "1,5 tys pracowników we Wrocławiu"},
+    { "id": 2, "name": "Nokia", "workers": "3 tys pracowników we Wrocławiu" },
+    { "id": 3, "name": "Volvo", "workers": "3,5 tys pracowników we Wrocławiu"}
+  ]
+}
